@@ -4,8 +4,6 @@
 
 |[Profile View Counter](https://github.com/MEGAMINDMK/github-readme-stats#Profile-View-Counter)|[Repository's Stats](https://github.com/MEGAMINDMK/github-readme-stats#Repository's-Stats)|
 |-|-|
-
-|[Profile View Counter](https://komarev.com/ghpvc/?username=MEGAMINDMK)
-|[Your Repository's Stats](https://contrib.rocks/image?repo=MEGAMINDMK/phpfm)
+|![Profile View Counter](https://komarev.com/ghpvc/?username=MEGAMINDMK)|![Your Repository's Stats](https://contrib.rocks/image?repo=MEGAMINDMK/phpfm)
 |[Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/MEGAMINDMK/Php-Electronjs)
 
