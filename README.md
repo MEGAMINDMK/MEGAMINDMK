@@ -2,7 +2,7 @@
 |-|-|
 |![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEGAMINDMK&layout=compact&langs_count=6)|![github stats](https://github-readme-stats.vercel.app/api?username=MEGAMINDMK&count_private=true&show_icons=true&hide=issues)
 
-|[Profile View Counter](https://github.com/MEGAMINDMK/github-readme-stats#Profile-View-Counter)|[Stats](https://github.com/MEGAMINDMK/github-readme-stats#github-stats-card)|
+|[Profile View Counter](https://github.com/MEGAMINDMK/github-readme-stats#Profile-View-Counter)|[Repository's Stats](https://github.com/MEGAMINDMK/github-readme-stats#Repository's-Stats)|
 |-|-|
 
 |[Profile View Counter](https://komarev.com/ghpvc/?username=MEGAMINDMK)
